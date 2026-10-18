@@ -19,7 +19,7 @@ function Footer() {
               href="#home"
               className="text-2xl font-bold tracking-tight text-white"
             >
-              Asad<span className="text-blue-500">.</span>
+              Mark Adam<span className="text-blue-500">.</span>
             </a>
 
             <p className="mt-3 max-w-sm text-sm leading-6 text-gray-500">

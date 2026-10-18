@@ -38,7 +38,7 @@ function Navbar() {
           onClick={closeMenu}
           className="text-2xl font-extrabold tracking-tight text-white"
         >
-          Asad<span className="text-blue-500">.</span>
+          Mark Adam<span className="text-blue-500">.</span>
         </Link>
 
         {/* Desktop Navigation */}

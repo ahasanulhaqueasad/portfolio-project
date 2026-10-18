@@ -25,8 +25,8 @@ function Hero() {
           </p>
 
           <h1 className="text-5xl font-bold tracking-tight text-white sm:text-6xl lg:text-7xl">
-            Md Ahasanul
-            <span className="mt-2 block text-blue-400">Haque Ashad.</span>
+            Mark
+            <span className="mt-2 block text-blue-400">Adam.</span>
           </h1>
 
           <h2 className="mt-7 text-xl font-medium text-gray-300 sm:text-2xl">
